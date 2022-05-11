@@ -1,3 +1,4 @@
 # hello-world
-GitHub Docs Quickstart
-Hello World! My name is Lee and this is a *basic* tutorial demonstrating GitHub concepts.
+
+## About me
+Hello World! My name is Lee and this is a tutorial demonstrating basic GitHub concepts.
